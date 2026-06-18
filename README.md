@@ -1,2 +1,9 @@
-# A-Prototype-RSA-Encryption-Tool-A-Discrete-Mathematics-Approach
-A Python-based GUI application demonstrating the RSA encryption algorithm. Originally developed for a Discrete Mathematics project (MATH 203), this prototype provides an intuitive interface to generate secure key pairs, encrypt plaintext, and decrypt messages using foundational number theory and modular arithmetic.
+## Project Authors
+* **Omar Elnabawy**[cite: 1]
+* **Yassin Islam**[cite: 1]
+
+---
+
+### Why this works:
+* **First impressions:** Anyone landing on your GitHub page instantly knows what the project is, what it's built with, and how to start it[cite: 1].
+* **Academic context:** Explicitly referencing "Discrete Math (MATH 203) – Project Report.pdf" gives immediate context to anyone reviewing your repository that this is an academic, logic-driven project[cite: 1].
